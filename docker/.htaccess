@@ -1,0 +1,4 @@
+AuthUserFile /var/www/lamp/.htpasswd
+AuthName "ID and Password"
+AuthType Basic
+require valid-user
